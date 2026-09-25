@@ -28,14 +28,16 @@ Durante su desarrollo busqué mejorar mis habilidades para estructurar contenido
 
 ## 🧩 Estructura del Proyecto
 
+```text
 Landing_Livia/
 ├── css/
 ├── images/
 └── index.html
+```
 
-**index.html** — Contiene la estructura y el contenido de la landing page.
-**css/** — Contiene los archivos CSS utilizados para definir los estilos y la apariencia de la página.
-**images/** — Contiene los recursos gráficos utilizados en el proyecto.
+* **index.html** — Contiene la estructura y el contenido de la landing page.
+* **css/** — Contiene los archivos CSS utilizados para definir los estilos y la apariencia de la página.
+* **images/** — Contiene los recursos gráficos utilizados en el proyecto.
 
 ## 🧠 Conceptos Aplicados
 
@@ -55,3 +57,35 @@ Landing_Livia/
 * **Figma** — Herramienta utilizada como referencia para el diseño de la landing page.
 * **Visual Studio Code** — Entorno utilizado para el desarrollo del proyecto.
 * **Git & GitHub** — Control de versiones y almacenamiento del proyecto.
+
+## 📚 Aprendizajes y Objetivos
+
+Este proyecto me permitió reforzar mis conocimientos fundamentales de **HTML5** y **CSS3,** especialmente en la construcción y estilización de interfaces web a partir de una referencia visual.
+
+Durante el desarrollo trabajé en:
+
+* Mejorar la organización y estructura del código HTML.
+* Aplicar CSS para reproducir una propuesta visual de manera ordenada.
+* Comprender mejor el uso de Flexbox, el modelo de caja y las unidades relativas.
+* Trabajar con tipografías, colores, espaciados y dimensiones para lograr una composición visual coherente.
+* Familiarizarme con el proceso de convertir un diseño de Figma en una interfaz web.
+* Continuar desarrollando buenas prácticas de organización y control de versiones mediante Git y GitHub.
+
+Como objetivo a futuro, continuaré profundizando en CSS, especialmente en diseño responsive y en técnicas que permitan crear interfaces más flexibles y adaptables a diferentes tamaños de pantalla.
+
+## 🚀 Próximos Pasos
+
+* 📱 Mejorar la adaptación de la landing a diferentes tamaños de pantalla mediante diseño responsive.
+* 🎨 Continuar explorando técnicas de CSS para mejorar la flexibilidad y organización de las interfaces.
+* 🧩 Incorporar nuevas prácticas de maquetación y diseño en futuros proyectos.
+* 🚀 Continuar construyendo proyectos para fortalecer mi portafolio de desarrollo web.
+
+## 📫 Contactame
+
+¿Te interesa conocer más sobre este proyecto o conectar conmigo?
+
+📧 Email: lucurban@gmail.com
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20"/> +57 304 352 8449 
+
+Gracias por pasar por aquí ✨
